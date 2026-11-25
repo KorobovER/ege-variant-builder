@@ -1,5 +1,11 @@
 node_modules/
 .next/
+out/
 .env*
 !.env.example
 .DS_Store
+/next-env.d.ts
+/artifacts/
+/playwright-report/
+/test-results/
+*.tsbuildinfo
